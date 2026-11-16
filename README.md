@@ -5,7 +5,7 @@ Networkwalks Cybersecurity Internship 2026 | Essentials: W3-PM1 (JTR) + W3-PM2 (
 | Field | Detail |
 |---|---|
 | **Pentester Name (Cybersecurity Professional)** | Kochiwe Anthony Tembo |
-| **Program/Batch** | Networkwalks Cybersecurity Internship 2026, Batch ⚠️ **TODO: batch number** |
+| **Program/Batch** | Networkwalks Cybersecurity Internship 2026, Batch B084
 | **Modules completed** | W3-PM1 (Password Cracking with JTR)<br>W3-PM2 (Password Cracking with Networkwalks Tools) |
 | **Target files** | Password-protected training PDFs supplied by Networkwalks for this lab only |
 | **Permission** | Yes - cracking these specific lab files is the assigned task |
@@ -112,7 +112,7 @@ I also learned to be careful about *where* a password hash is extracted. Doing i
 ## 👤 Author
 
 **Kochiwe Anthony Tembo**
-Cybersecurity intern, Networkwalks | Year 2 BSc Computer Science, Copperbelt University
+Cybersecurity intern, Networkwalks 
 
 LinkedIn: <https://www.linkedin.com/in/kochiwe-tembo-0a52a4400>
 GitHub: <https://github.com/Kochiweatembo>
